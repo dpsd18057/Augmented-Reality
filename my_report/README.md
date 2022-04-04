@@ -1,9 +1,9 @@
 # Lesson: Interaction Design
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Augmented Reality Personal Repository: xxx
+### First and Last Name: Panagiotis Kyriazis
+### University Registration Number: dpsd18057
+### GitHub Personal Profile: [Panagiotis' Profile](https://github.com/dpsd18057)
+### Augmented Reality Personal Repository: [dpsd18057 / Augmented-Reality](https://github.com/dpsd18057/Augmented-Reality)
 
 # Introduction
 
